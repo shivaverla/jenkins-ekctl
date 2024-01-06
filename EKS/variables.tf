@@ -13,9 +13,6 @@ variable "public_subnets" {
   type        = list(string)
 }
 
-output "cluster_id" {
-  value = module.eks.cluster_id
-}
 
 
 
