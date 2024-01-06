@@ -1,1 +1,2 @@
 This is the sample text file added
+This is sample text
